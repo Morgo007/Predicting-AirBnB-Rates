@@ -23,7 +23,7 @@ The dataset is sourced from InsideAirbnb.com and contains information on 6,700 A
 The notebook is structured as follows:
 
 1. **Data Loading and Preparation:** Importing libraries, loading datasets and preparing the data for subsequent analysis.
-2. **Data Analysis:** Performing explatory data analysis to understand the dataset.
+2. **Data Analysis:** Performing exploratory data analysis to understand the dataset.
 3. **Data Cleaning:** Handling missing values, encoding categorical variables and transforming data.
 4.  **Visualization:** Creating plots and visualizations to illustrate data insights.
 5.   **Machine Learning:** Implementing machine learning models to make predictions and evaluate performance.
