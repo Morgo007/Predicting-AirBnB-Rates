@@ -26,7 +26,7 @@ The notebook is structured as follows:
 2. **Data Analysis:** Performing explatory data analysis to understand the dataset.
 3. **Data Cleaning:** Handling missing values, encoding categorical variables and transforming data.
 4.  **Visualization:** Creating plots and visualizations to illustrate data insights.
-5.   *Machine Learning:** Implementing machine learning models to make predictions and evaluate performance.
+5.   **Machine Learning:** Implementing machine learning models to make predictions and evaluate performance.
 
 ## Conclusions
 
